@@ -1,4 +1,4 @@
-package Attendance;
+package Lecture9_16_25;
 
 public class Matrix {
     public static void main(String[] args) {
